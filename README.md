@@ -147,4 +147,8 @@ The project demonstrates how IoT telemetry can be transformed into actionable in
 
 ## Dissertation
 
-**M
+## Author
+
+Nazerke Dalabayeva
+
+Field Engineer transitioning into Data Science, with interests in IoT Analytics, Time-Series Forecasting, Machine Learning, Cloud Technologies, and Digital Twin Systems.

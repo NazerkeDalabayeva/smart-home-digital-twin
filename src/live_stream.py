@@ -15,9 +15,9 @@ from rich.live import Live
 # MQTT CONFIG (HiveMQ Cloud)
 # ==============================
 
-MQTT_BROKER = "49bfd52aaf7440d3bda3b1ebd299a9ce.s1.eu.hivemq.cloud"
-MQTT_PORT = 8883
-MQTT_TOPIC = "farm/farm01/telemetry"
+MQTT_BROKER = "****************"
+MQTT_PORT = ********
+MQTT_TOPIC = "****************"
 
 MQTT_USERNAME = "**********"
 MQTT_PASSWORD = "**********"

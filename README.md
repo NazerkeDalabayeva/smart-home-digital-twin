@@ -127,12 +127,21 @@ smart-home-digital-twin/
 │   └── Supplementary_Material.pdf
 │
 ├── images/
-│   ├── architecture.png
-│   ├── grafana_dashboard.png
-│   └── mobile_app.png
+│ ├── System architecture.jpg
+│ ├── Grafana.png
+│ ├── Smart Farm Mobile App.png
+│ ├── Spearman correlation matrix.png
+│ ├── Normalized lagged correlation analysis (temp-humid, light-temp, light-humid).png
+│ ├── Seasonal decomposition_temp.png
+│ ├── Seasonal decomposition_rssi.png
+│ ├── Seasonal decomposition_light.png
+│ ├── Decomposition-Based Forecast vs Actual (Temp).png
+│ ├── Decomposition-Based Forecast vs Actual (RSSI).png
+│ ├── Decomposition-Based Forecast vs Actual (Humidity).png
+│ └── Rssi sensor - anomaly detection.png
 │
 └── data/
-    └── sample_data.csv
+    └── data.zip
 ```
 
 ## Results
